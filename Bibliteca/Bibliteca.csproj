@@ -93,7 +93,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ControlAutor.cs" />
-    <Compile Include="DAOAutor.cs" />
+    <Compile Include="DAOCategoria.cs" />
+    <Compile Include="DAOLivro.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

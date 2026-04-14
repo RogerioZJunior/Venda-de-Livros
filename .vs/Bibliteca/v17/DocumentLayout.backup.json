@@ -3,15 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\rogerio.zjunior\\source\\repos\\BibliotecaBDTI23T\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{74AC2B25-00A0-4C98-BC1F-9332C201A0C4}|Bibliteca\\Bibliteca.csproj|C:\\Users\\rogerio.zjunior\\source\\repos\\BibliotecaBDTI23T\\bibliteca\\controlautor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74AC2B25-00A0-4C98-BC1F-9332C201A0C4}|Bibliteca\\Bibliteca.csproj|solutionrelative:bibliteca\\controlautor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{74AC2B25-00A0-4C98-BC1F-9332C201A0C4}|Bibliteca\\Bibliteca.csproj|c:\\users\\rogerio.zjunior\\source\\repos\\bibliotecabdti23t\\bibliteca\\daoautor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74AC2B25-00A0-4C98-BC1F-9332C201A0C4}|Bibliteca\\Bibliteca.csproj|solutionrelative:bibliteca\\daoautor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74AC2B25-00A0-4C98-BC1F-9332C201A0C4}|Bibliteca\\Bibliteca.csproj|c:\\users\\rogerio.zjunior\\source\\repos\\bibliotecabdti23t\\bibliteca\\controlautor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74AC2B25-00A0-4C98-BC1F-9332C201A0C4}|Bibliteca\\Bibliteca.csproj|solutionrelative:bibliteca\\controlautor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74AC2B25-00A0-4C98-BC1F-9332C201A0C4}|Bibliteca\\Bibliteca.csproj|c:\\users\\rogerio.zjunior\\source\\repos\\bibliotecabdti23t\\bibliteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{74AC2B25-00A0-4C98-BC1F-9332C201A0C4}|Bibliteca\\Bibliteca.csproj|C:\\Users\\rogerio.zjunior\\source\\repos\\BibliotecaBDTI23T\\bibliteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74AC2B25-00A0-4C98-BC1F-9332C201A0C4}|Bibliteca\\Bibliteca.csproj|solutionrelative:bibliteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -39,26 +39,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "DAOAutor.cs",
               "DocumentMoniker": "C:\\Users\\rogerio.zjunior\\source\\repos\\BibliotecaBDTI23T\\Bibliteca\\DAOAutor.cs",
               "RelativeDocumentMoniker": "Bibliteca\\DAOAutor.cs",
               "ToolTip": "C:\\Users\\rogerio.zjunior\\source\\repos\\BibliotecaBDTI23T\\Bibliteca\\DAOAutor.cs",
               "RelativeToolTip": "Bibliteca\\DAOAutor.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAqwE8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwBYAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-07T18:45:24.269Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ControlAutor.cs",
               "DocumentMoniker": "C:\\Users\\rogerio.zjunior\\source\\repos\\BibliotecaBDTI23T\\Bibliteca\\ControlAutor.cs",
               "RelativeDocumentMoniker": "Bibliteca\\ControlAutor.cs",
               "ToolTip": "C:\\Users\\rogerio.zjunior\\source\\repos\\BibliotecaBDTI23T\\Bibliteca\\ControlAutor.cs",
               "RelativeToolTip": "Bibliteca\\ControlAutor.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowEEAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-07T18:45:22.712Z",
               "EditorCaption": ""

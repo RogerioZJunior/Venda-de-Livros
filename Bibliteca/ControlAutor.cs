@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace Bibliteca
 {
-    class ControlAutor
+    class ControlLivro
     {
-        DAOAutor autor;
+        DAOLivro livro;
         public int opcao;
-        public ControlAutor()
+        public ControlLivro()
         {
             this.autor = new DAOAutor();//Abrindo a conexão com o BD
         }//fim do construtor
@@ -40,24 +40,33 @@ namespace Bibliteca
                         Console.WriteLine("Obrigado!");
                         break;
                     case 1:
-                        Console.WriteLine("Cadastrar Autor");
+                        Console.WriteLine("Cadastrar Livro");
                         //Formulário de Cadastro
+                        Console.WriteLine("Informe o nome do livro: ");
+                        string titulo = Console.ReadLine();
+
                         Console.WriteLine("Informe o nome do autor: ");
-                        string nome = Console.ReadLine();
+                        string autor = Console.ReadLine();
 
-                        Console.WriteLine("Informe o gênero do autor: ");
-                        string genero = Console.ReadLine();
+                        Console.WriteLine("Informe a quantidade de livro(s): ");
+                        string  quantidade = Console.ReadLine();
 
-                        Console.WriteLine("Informe o endereço do autor: ");
-                        string endereco = Console.ReadLine();
+                        Console.WriteLine("Informe o preço do livro: ");
+                        string preco = Console.ReadLine();
+
+                        Console.WriteLine("Informe a editora do livro: ");
+                        string editora = Console.ReadLine();
 
                         //Inserir esses dados no banco
-                        this.autor.Inserir(nome, genero, endereco);
+                        this.autor.Inserir(titulo, autor, quantidade, preco, editora);
+                        this.categoria.inserirCategoria()
+
+
                         break;
                     case 2:
                         Console.WriteLine("Consultar Tudo - Autor");
                         
-                        //Chamar o método
+                        //Chamar o métodoSs
                         Console.WriteLine(this.autor.ConsultarTudo());
                         break;
                     case 3:
